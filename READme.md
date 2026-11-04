@@ -1,3 +1,3 @@
-# Git in VS code
+# Git in VS code started
 
 I just started something!
