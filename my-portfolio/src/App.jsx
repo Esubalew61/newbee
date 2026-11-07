@@ -1,3 +1,4 @@
+import Profile from "./Profile";
 function App() {
   return (
     <div>
@@ -5,6 +6,7 @@ function App() {
       <p>This is my first React application and I am excited to learn more about it!</p>
       <p><b>I am already a software engineer. yay!</b></p>
       <button>View my projects</button>
+      <profile />
     </div>
   )
 }
